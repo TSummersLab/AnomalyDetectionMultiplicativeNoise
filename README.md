@@ -9,6 +9,9 @@ This repository contains the MATLAB code to simulate the anomaly detector design
 # Procedure to Run the Code
 Please run "multi_noise_lcss.mlx" file after including the required toolboxes and solvers in the Matlab path.
 
+## Variations in code
+The variances of the multiplicative noises can be set through lines 240-244.
+
 # Contributors
 - Venkatraman Renganathan (Lund University, University of Texas at Dallas)
 - Benjamin Gravell (University of Texas at Dallas)
