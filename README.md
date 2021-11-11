@@ -7,7 +7,7 @@ This repository contains the MATLAB code to simulate the anomaly detector design
 - SeDuMi solver
 
 # Procedure to Run the Code
-Please run `multi_noise_lcss.mlx` file after including the required toolboxes and solvers in the Matlab path.
+Please run the file named `multi_noise_lcss.mlx` after including the required toolboxes and solvers in the Matlab path.
 
 ## Variations in code
 The variances of the multiplicative noises can be set through lines `240-244` in the `multi_noise_lcss.mlx` file.
