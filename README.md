@@ -9,8 +9,13 @@ This repository contains the MATLAB code to simulate the anomaly detector design
 # Procedure to Run the Code
 Please run the file named `multi_noise_lcss.mlx` after including the required toolboxes and solvers in the Matlab path.
 
-## Variations in code
+### Step 1.  
 The variances of the multiplicative noises can be set through lines `240-244` in the `multi_noise_lcss.mlx` file.
+### Step 2. 
+Run the file `multi_noise_lcss.mlx`. Once the simulations are done, the code will automatically generate the workspace data file named as `data00var.mat`
+### Step 3
+Run the file named `multi_noise_lcss_comparison_plotter.m` after correctly importing the data file in line `#1`. This will generate the required plot. Adjust the zoomed-in histograms based on the obtained results.
+
 
 # Contributors
 - Venkatraman Renganathan (Lund University, University of Texas at Dallas)
