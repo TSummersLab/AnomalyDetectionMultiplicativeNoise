@@ -3,7 +3,7 @@ This repository contains the MATLAB code to simulate the anomaly detector design
 
 # Dependencies
 - MATLAB (Preferrably 2019b or higher)
-- SOS ToolBox
+- SOS ToolBox (Strongly recommended to download the latest version from Caltech website)
 - SeDuMi solver
 
 # Procedure to Run the Code
